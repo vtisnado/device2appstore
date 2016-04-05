@@ -1,2 +1,4 @@
-# device2appstore
-Redirect to the appropriate app store according to the browser user agent
+device2appstore
+===============
+
+Just copy the PHP function to the file you want to verify the device user-agent. Remember to edit the app store URL before to push in production.
